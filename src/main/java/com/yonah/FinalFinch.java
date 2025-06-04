@@ -9,15 +9,53 @@ public class FinalFinch {
         // What do I want my bird to do?
         bird.setBeak(50, 100, 100);
         bird.pause(1);
-        bird.setTurn ("R", 30, 50);
-        bird.setMove("F", 10, 75);
-        bird.setTurn ("R", 30, 50);
-        bird.setMove("F", 10, 75);
-        
-        
+        bird.setMove("F", 10, 25);
+        bird.setTurn("R", 90, 25);
+        bird.setMove("F", 10, 25);
+        bird.setTurn("R", 90, 25);
+        bird.setMove("F", 10, 25);
+        bird.setTurn("R", 90, 25);
+        bird.setMove("F", 10, 25);
+        bird.setTurn("R", 90, 25);
+        bird.setMove("F", 10, 25);
+        bird.setTurn("R", 90, 25);
+        bird.setMove("F", 10, 25);
+        bird.setTurn("L", 20, 25);
+        bird.setMove("F", 3, 25);
+        bird.setTurn("R", 110, 25);
+        bird.setMove("F", 10, 25);
+        bird.setTurn("R", 70, 25);
+        bird.setMove("F", 3, 25);
+        bird.setTurn("R", 110, 25);
+        bird.setMove("F", 10, 25);
+        bird.setTurn("L", 90, 25);
+        bird.setMove("F", 10, 25);
+        bird.setTurn("R", 160, 25);
+        bird.setMove("F", 3, 25);
+        bird.setTurn("R", 20, 25);
+        bird.setMove("F", 10, 25);
+
+
+
+
+
+
+
+
+      
+
+
+
+
+
+
+
+
 
 
         
+        
+
 
 
         bird.stopAll();
